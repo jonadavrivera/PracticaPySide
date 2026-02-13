@@ -1,0 +1,25 @@
+/* Estilos Base Globales */
+* {
+    font-family: "Segoe UI", "Roboto", sans-serif;
+}
+
+QMainWindow {
+    min-width: 800px;
+}
+
+QPushButton {
+    border-radius: 6px;
+    padding: 8px 15px;
+    font-weight: 500;
+}
+
+QLineEdit {
+    border-radius: 4px;
+    padding: 6px;
+    selection-background-color: #3498db;
+}
+
+/* Identificadores específicos que no cambian con el tema */
+#sidebar {
+    min-width: 200px;
+}
