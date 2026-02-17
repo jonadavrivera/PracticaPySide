@@ -1,7 +1,5 @@
 /* Estilos Base Globales */
-* {
-    font-family: "Segoe UI", "Roboto", sans-serif;
-}
+* { font-family: "SF Pro Display", "Helvetica Neue", "Arial", sans-serif; }
 
 QMainWindow {
     min-width: 800px;
